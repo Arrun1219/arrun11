@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class FridaysalesApplicationTests {
-\\Commit add
+\\Commit add fdgsdff
 	@Test
 	void contextLoads() {
 	}
